@@ -1,13 +1,6 @@
 # Power BI Reports
 
 This repository contains static versions of Power BI reports created for data analysis and visualization.
-
-## Download Report
-
-You can download the report file below:
-
-- [Report PDF](./PowerBI_Report.pdf)
-
 ### How to open the report
 
 **For PDF file**:
